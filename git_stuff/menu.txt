@@ -1,7 +1,10 @@
 Dinner Menu
 
+App:
+Chips and Salsa
+
 Main Course:
--Spaghetti and Meatballs
+-Chicken
 
 Dessert:
-Apple Pie
+-Ice cream
